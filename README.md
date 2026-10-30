@@ -13,7 +13,7 @@ Fan-made. Not affiliated with or endorsed by Anthropic or the Pixel Agents team.
 ## Install (macOS / Linux, Node 18+)
 ```bash
 npx pixel-agents        # run once, then Ctrl+C
-git clone <this repo> && cd claude-pixel-office
+git clone https://github.com/ilyagallager-bot/claude-pixel-office.git && cd claude-pixel-office
 bash install.sh
 npx pixel-agents        # open the link it prints
 ```
