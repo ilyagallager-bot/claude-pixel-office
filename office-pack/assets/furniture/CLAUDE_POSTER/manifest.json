@@ -1,0 +1,14 @@
+{
+ "id": "CLAUDE_POSTER",
+ "name": "Claude Poster",
+ "category": "wall",
+ "type": "asset",
+ "file": "CLAUDE_POSTER.png",
+ "width": 16,
+ "height": 16,
+ "footprintW": 1,
+ "footprintH": 1,
+ "canPlaceOnWalls": true,
+ "canPlaceOnSurfaces": false,
+ "backgroundTiles": 0
+}

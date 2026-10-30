@@ -1,0 +1,14 @@
+{
+ "id": "NEON_SHIP_IT",
+ "name": "Neon Ship It",
+ "category": "wall",
+ "type": "asset",
+ "file": "NEON_SHIP_IT.png",
+ "width": 32,
+ "height": 16,
+ "footprintW": 2,
+ "footprintH": 1,
+ "canPlaceOnWalls": true,
+ "canPlaceOnSurfaces": false,
+ "backgroundTiles": 0
+}

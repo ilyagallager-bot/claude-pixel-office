@@ -1,0 +1,14 @@
+{
+ "id": "MASCOT_STATUE",
+ "name": "Claude Mascot Statue",
+ "category": "decor",
+ "type": "asset",
+ "file": "MASCOT_STATUE.png",
+ "width": 32,
+ "height": 32,
+ "footprintW": 2,
+ "footprintH": 2,
+ "canPlaceOnWalls": false,
+ "canPlaceOnSurfaces": false,
+ "backgroundTiles": 1
+}

@@ -1,0 +1,14 @@
+{
+ "id": "ANTHROPIC_WALL_SIGN",
+ "name": "Anthropic Wall Sign",
+ "category": "wall",
+ "type": "asset",
+ "file": "ANTHROPIC_WALL_SIGN.png",
+ "width": 64,
+ "height": 32,
+ "footprintW": 4,
+ "footprintH": 2,
+ "canPlaceOnWalls": true,
+ "canPlaceOnSurfaces": false,
+ "backgroundTiles": 0
+}

@@ -1,0 +1,14 @@
+{
+ "id": "AGENT_DASHBOARD",
+ "name": "Agent Dashboard TV",
+ "category": "wall",
+ "type": "asset",
+ "file": "AGENT_DASHBOARD.png",
+ "width": 32,
+ "height": 16,
+ "footprintW": 2,
+ "footprintH": 1,
+ "canPlaceOnWalls": true,
+ "canPlaceOnSurfaces": false,
+ "backgroundTiles": 0
+}
